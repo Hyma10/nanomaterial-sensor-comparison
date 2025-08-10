@@ -2,7 +2,7 @@
 📊 This repository provides a comparative analysis of **nanomaterial-based sensors** used in biomedical, pharmaceutical, and environmental applications.  
 It includes structured datasets, visual summaries, and reference materials.
 ##  Repository Contents
-- Nanobased sensors.xlsx– Complete dataset in Excel format with detailed entries 
+- **Nanobased sensors.xlsx**– Complete dataset in Excel format with detailed entries 
 - **nanomaterial_sensor_comparison.csv** – Dataset in CSV format for easy import into analysis tools
 - **nanomaterial_sensor_comparison.md** – Markdown table for quick viewing directly in GitHub
 - **nanomaterial commparision maps.pdf** – PDF with mapped visual comparison of nanomaterials
